@@ -10,5 +10,10 @@ members:
 - David
 - George
 
+<<<<<<< HEAD
 i am fetch:
 - this is fetch
+=======
+new:
+- branch
+>>>>>>> new-barnch
